@@ -1,4 +1,4 @@
-# TANAKA MAHASO R221761H
+# JOSHUA MUKONYORA R224774H Parallel
 # Example of variables and constants in Python
 
 # Constant (by convention, constants are written in ALL CAPS)
@@ -17,3 +17,4 @@ print("Radius of the circle:", radius)
 print("Height of the cylinder:", height)
 print("Area of the circle:", circle_area)
 print("Volume of the cylinder:", cylinder_volume)
+

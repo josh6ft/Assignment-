@@ -1,3 +1,4 @@
+#Joshua Mukonyora R224774H Parallel 
 class Vehicle:
     def __init__(self, brand, model):
         self.brand = brand
@@ -166,4 +167,5 @@ binary_handler = BinaryFileHandler("image.jpg")
 print(text_handler.read())
 print(text_handler.write("Hello World"))
 print(binary_handler.read())
+
 print(binary_handler.write("binary data"))
